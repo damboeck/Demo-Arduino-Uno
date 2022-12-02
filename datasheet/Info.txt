@@ -1,0 +1,13 @@
+Messung an Arduino UNO:
+
+PORT Signalpegel:
+Ein : 2.6V     lt Datenblatt 0.6Vcc = 3V
+Aus : 2.3V     lt Datenblatt 0.3Vcc = 1.5V
+
+Input mit internem Pullup: 
+R-pu = 20-50k lt Datenblatt
+R-pu = 36.42k Messung
+
+Input mit internem Pullup bei Vcc=5V: 
+maximaler Widerstand gegen Masse für Low-Pegel lt. Datenblatt:
+R-max = 6k
